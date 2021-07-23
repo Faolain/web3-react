@@ -1,5 +1,5 @@
 {
-  "name": "@web3-react/core",
+  "name": "@dclimate/web3-react-core",
   "publishConfig": {
     "access": "public"
   },
@@ -20,7 +20,7 @@
   "author": "Noah Zinsmeister <noahwz@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/NoahZinsmeister/web3-react.git"
+    "url": "git://github.com/dClimate/web3-react.git"
   },
   "main": "dist/index.js",
   "module": "dist/core.esm.js",
